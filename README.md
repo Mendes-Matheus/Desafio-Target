@@ -49,7 +49,7 @@ public class FibonacciChecker {
 }
 
 ```
-**LINK PARA O CÓDIGO:** [FibonacciChecker]([https://exemplo.com/](https://github.com/Mendes-Matheus/Desafio-Target/blob/master/scripts/Quest%C3%A3o%2001/FibonacciChecker/src/main/java/br/com/mendes/matheus/FibonacciChecker.java)).
+**LINK PARA O CÓDIGO:** [FibonacciChecker](https://github.com/Mendes-Matheus/Desafio-Target/blob/master/scripts/Quest%C3%A3o%2001/FibonacciChecker/src/main/java/br/com/mendes/matheus/FibonacciChecker.java).
 
 ---
 
