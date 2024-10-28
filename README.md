@@ -49,6 +49,7 @@ public class FibonacciChecker {
 }
 
 ```
+**LINK PARA O CÓDIGO:** [FibonacciChecker]([https://exemplo.com/](https://github.com/Mendes-Matheus/Desafio-Target/blob/master/scripts/Quest%C3%A3o%2001/FibonacciChecker/src/main/java/br/com/mendes/matheus/FibonacciChecker.java)).
 
 ---
 
@@ -92,6 +93,7 @@ public class VerifyLetterA {
 }
 
 ```
+**LINK PARA O CÓDIGO:**  [VerifyLetterA](https://github.com/Mendes-Matheus/Desafio-Target/blob/master/scripts/Quest%C3%A3o%2002/VerifyLetterA/src/main/java/br/com/mendes/matheus/VerifyLetterA.java).
 
 ---
 
@@ -126,6 +128,7 @@ public class Sum {
 }
 
 ```
+**LINK PARA O CÓDIGO:**  [Sum](https://github.com/Mendes-Matheus/Desafio-Target/blob/master/scripts/Quest%C3%A3o%2003/Sum/src/main/java/br/com/mendes/matheus/Sum.java).
 
 ---
 
@@ -171,7 +174,7 @@ f) 200
 
 **A estratégia consiste nos seguintes passos:**
 
-1. **Acender uma lâmpada:** Primeiro eu ligaria um dos interruptores e aguardarias alguns minutos. A lâmpada correspondente a esse interruptor ficaria quente devido à incandescência.
+1. **Acender uma lâmpada:** Primeiro eu ligaria um dos interruptores e aguardaria alguns minutos. A lâmpada correspondente a esse interruptor ficaria quente devido à incandescência.
 2. **Eliminar uma opção:** Depois eu desligaria o interruptor que liguei primeiro e ligaria outro.
 3. **Ir em cada uma das salas:** Depois eu iria em cada uma das salas
 4. **Identificar as lâmpadas:**
